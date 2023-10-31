@@ -1,4 +1,5 @@
 # yewのテンプレート
-```
+
+```shell
 trunk serve
 ```
